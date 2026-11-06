@@ -1,0 +1,11 @@
+# Release files are attached to GitHub releases, not committed
+*.pak
+*.sig
+*.sha256
+dist/
+build/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
