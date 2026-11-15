@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Chiv2-Community/zero-infra-mod-registry/v1/schemas/mod.schema.json",
   "name": "CMW-Maps",
-  "description": "Chivalry: Medieval Warfare maps rebuilt for Chivalry 2 Unchained as free-for-all maps (dev/test build).",
+  "description": "Chivalry: Medieval Warfare maps rebuilt for Chivalry 2 Unchained (dev/test build; 0.2.0: Outpost as a team objective map, multiplayer test).",
   "authors": [
     "SageFlare"
   ],
@@ -11,7 +11,7 @@
   "mod_dependencies": [
     {
       "repo_url": "https://github.com/SageFlare/CMW-Library",
-      "version": ">=0.1.0"
+      "version": ">=0.2.0,<0.3.0"
     }
   ],
   "plugin_dependencies": [],
@@ -20,12 +20,6 @@
     "Map"
   ],
   "maps": [
-    "FFA_CMW_Cistern",
-    "FFA_CMW_Courtyard",
-    "FFA_CMW_FrostPeak",
-    "FFA_CMW_Arena",
-    "FFA_CMW_Coldfront",
-    "FFA_CMW_Battlegrounds_v3",
     "FFA_CMW_Outpost"
   ],
   "options": {

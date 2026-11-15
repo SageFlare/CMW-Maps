@@ -17,6 +17,8 @@ Chivalry: Medieval Warfare maps rebuilt for Chivalry 2 Unchained, as free-for-al
 
 All maps play as free-for-all. The CMW objective and duel modes are not ported.
 
+**0.2.0 (prerelease, multiplayer test):** Outpost only, as a team objective map (same map name `FFA_CMW_Outpost`). It needs the [CMW-Library 0.2.0](https://github.com/SageFlare/CMW-Library/releases/tag/v0.2.0) PAK; server and players need the same versions.
+
 ## Installation
 
 1. Download [`CMW_Library.pak`](https://github.com/SageFlare/CMW-Library/releases/latest). Every map needs it.
